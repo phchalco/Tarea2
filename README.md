@@ -105,4 +105,14 @@ https://www.youtube.com/watch?v=IRTG6Qs47qg
 
 6.-Bibliografía:
 
+Corriente, voltaje y resistencia. (s. f.-b). Humane Slaughter Association. https://www.hsa.org.uk/electricidad/corriente-voltaje-y-resistencia
 
+¿Qué es la ley de Ohm? (2016, 31 octubre). Fluke. https://www.fluke.com/es-ec/informacion/blog/electrica/que-es-la-ley-de-ohm
+
+9.5 Energía eléctrica y potencia - Física universitaria volumen 2 | OpenStax. (s. f.). https://openstax.org/books/f%C3%ADsica-universitaria-volumen-2/pages/9-5-energia-electrica-y-potencia
+
+Qué es y cómo se calcula la potencia eléctrica. (2022, 19 mayo). efectoLED blog. https://www.efectoled.com/blog/es/calcular-potencia-electrica/
+
+Una mirada a la potencia nominal de los resistores. (s. f.). https://crushtymks.com/es/electronics/300-a-look-at-the-power-rating-of-resistors.html
+
+Qué fuente de alimentación eléctrica elegir. (2021, 9 febrero). Guías de compra DirectIndustry. https://guide.directindustry.com/es/que-fuente-de-alimentacion-electrica-elegir/
