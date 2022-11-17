@@ -90,9 +90,9 @@ https://www.youtube.com/watch?v=IRTG6Qs47qg
 
 5.-Conclusiones:
 
--En base a lo expuesto anteriormente, se puede precisar que las unidades y cantidades estudiadas y presentadas en este documento son muy importantes a la hora de realizar cálculos con circuitos y facilitan la manera de realizarlos.
+-En base a lo anterior expuesto, se puede determinar que la aplicación de la ley de ohm en circuitos eléctricos es de caracter fundamental a la hora de aprender sobre circuitos eléctricos.
 
--Tras el análisis expuesto, se puede afirmar que el concepto de voltaje, corriente y resistencia son de suma importancia, pues nos detallan las utilidades de su manipulación, así como también los riesgos de no manipularlos adecuadamente.
+-Tras el análisis expuesto, se puede afirmar que la relación que existe entra energía y potencia deriva muchas definiciones y conlleva a un claro conocimiento sobre lo que son las energías y potencia, además de saber donde aplicarlas correctamente.
 
 6.-Bibliografía:
 
