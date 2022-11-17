@@ -95,7 +95,7 @@ Fuentes de potencia
 
 4.-Video
 
-https://www.youtube.com/watch?v=IRTG6Qs47qg
+https://www.youtube.com/watch?v=ara18eYg5PE
 
 5.-Conclusiones:
 
