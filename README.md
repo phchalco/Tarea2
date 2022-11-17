@@ -39,25 +39,25 @@ La solución de problemas es la aplicación del razonamiento lógico combinado c
 
 3.-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-![](https://github.com/phchalco/Tarea1/blob/main/3EC1.png)
+![](https://github.com/phchalco/Tarea2/blob/main/3EC1.png)
 
-![](https://github.com/phchalco/Tarea1/blob/main/3EC2.png)
+![](https://github.com/phchalco/Tarea2/blob/main/3EC2.png)
 
-![](https://github.com/phchalco/Tarea1/blob/main/3EC3.png)
+![](https://github.com/phchalco/Tarea2/blob/main/3EC3.png)
 
-![](https://github.com/phchalco/Tarea1/blob/main/3EC4.png)
+![](https://github.com/phchalco/Tarea2/blob/main/3EC4.png)
 
-![](https://github.com/phchalco/Tarea1/blob/main/3EC5.png)
+![](https://github.com/phchalco/Tarea2/blob/main/3EC5.png)
 
-![](https://github.com/phchalco/Tarea1/blob/main/3EC6.png)
+![](https://github.com/phchalco/Tarea2/blob/main/3EC6.png)
 
-![](https://github.com/phchalco/Tarea1/blob/main/3EC7.png)
+![](https://github.com/phchalco/Tarea2/blob/main/3EC7.png)
 
-![](https://github.com/phchalco/Tarea1/blob/main/3EC8.png)
+![](https://github.com/phchalco/Tarea2/blob/main/3EC8.png)
 
-![](https://github.com/phchalco/Tarea1/blob/main/3EC9.png)
+![](https://github.com/phchalco/Tarea2/blob/main/3EC9.png)
 
-![](https://github.com/phchalco/Tarea1/blob/main/3EC10.png)
+![](https://github.com/phchalco/Tarea2/blob/main/3EC10.png)
 
 Capítulo 4
 
