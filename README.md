@@ -85,17 +85,13 @@ Fuentes de potencia
 
 ![](https://github.com/phchalco/Tarea2/blob/main/19.png)
 
-Seguridad Eléctrica 
-
 3.1-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-![](https://github.com/phchalco/Tarea1/blob/main/Ej4.png)
+![](https://github.com/phchalco/Tarea2/blob/main/4EC1.png)
 
-![](https://github.com/phchalco/Tarea1/blob/main/Ej5.png)
+![](https://github.com/phchalco/Tarea2/blob/main/4EC2.png)
 
-![](https://github.com/phchalco/Tarea1/blob/main/Ej6.png)
-
-![](https://github.com/phchalco/Tarea1/blob/main/Ej7.png)
+![](https://github.com/phchalco/Tarea2/blob/main/4EC3.png)
 
 4.-Video
 
@@ -108,4 +104,5 @@ https://www.youtube.com/watch?v=IRTG6Qs47qg
 -Tras el análisis expuesto, se puede afirmar que la relación que existe entra energía y potencia deriva muchas definiciones y conlleva a un claro conocimiento sobre lo que son las energías y potencia, además de saber donde aplicarlas correctamente.
 
 6.-Bibliografía:
+
 
