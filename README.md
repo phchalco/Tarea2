@@ -99,9 +99,9 @@ https://www.youtube.com/watch?v=IRTG6Qs47qg
 
 5.-Conclusiones:
 
--En base a lo anterior expuesto, se puede determinar que la aplicación de la ley de ohm en circuitos eléctricos es de caracter fundamental a la hora de aprender sobre circuitos eléctricos.
+-En base a lo anterior expuesto, se puede determinar que la aplicación de la ley de ohm en circuitos eléctricos es de carácter fundamental a la hora de aprender sobre circuitos eléctricos.
 
--Tras el análisis expuesto, se puede afirmar que la relación que existe entra energía y potencia deriva muchas definiciones y conlleva a un claro conocimiento sobre lo que son las energías y potencia, además de saber donde aplicarlas correctamente.
+-Tras el análisis expuesto, se puede afirmar que la relación que existe entre energía y potencia deriva muchas definiciones y conlleva a un claro conocimiento sobre lo que son las energías y potencia, además de saber dónde aplicarlas correctamente.
 
 6.-Bibliografía:
 
