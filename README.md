@@ -25,17 +25,17 @@ La relación de corriente, voltaje y resistencia.
 
 La ley de Ohm se determinó experimentalmente, si el voltaje a través de la resistencia aumenta, entonces La corriente a través de la resistencia también será; De manera similar, si se reduce el voltaje, la corriente hará lo mismo. Por ejemplo, si el voltaje se duplica, la corriente también se duplica. Si el voltaje de nuevo Lados y ese será el flujo.
 
-![](https://github.com/phchalco/Tarea1/blob/main/12.png)
+![](https://github.com/phchalco/Tarea2/blob/main/12.png)
 
 Cálculo de la corriente, voltaje y resistencia.
 
-![](https://github.com/phchalco/Tarea1/blob/main/13.png)
+![](https://github.com/phchalco/Tarea2/blob/main/13.png)
 
 Introducción a la localización de fallas Una aplicación de circuito.
 
 La solución de problemas es la aplicación del razonamiento lógico combinado con una comprensión profunda del funcionamiento de un circuito o sistema para corregir errores. Un enfoque básico para la resolución de problemas implica tres pasos: análisis, planificación y medición.
 
-![](https://github.com/phchalco/Tarea1/blob/main/14.png)
+![](https://github.com/phchalco/Tarea2/blob/main/14.png)
 
 
 NOTACIÓN CIENTÍFICA
