@@ -54,23 +54,23 @@ Se llama energía eléctrica a la capacidad de las cargas que circulan por un ci
 
 Se llama potencia eléctrica a la rapidez con la que se realiza un trabajo en un circuito eléctrico.
 
-![](https://github.com/phchalco/Tarea1/blob/main/7.png)
+![](https://github.com/phchalco/Tarea2/blob/main/15.png)
 
 Potencia en un circuito eléctrico
 
-![](https://github.com/phchalco/Tarea1/blob/main/8.png)
+![](https://github.com/phchalco/Tarea2/blob/main/16.png)
 
 Potencia nominal en resistores
 
-![](https://github.com/phchalco/Tarea1/blob/main/9.png)
+![](https://github.com/phchalco/Tarea2/blob/main/17.png)
 
 Conversión de energía y caída de voltaje en una resistencia
 
-![](https://github.com/phchalco/Tarea1/blob/main/10.png)
+![](https://github.com/phchalco/Tarea2/blob/main/18.png)
 
 Fuentes de potencia
 
-![](https://github.com/phchalco/Tarea1/blob/main/11.png)
+![](https://github.com/phchalco/Tarea2/blob/main/19.png)
 
 Seguridad Eléctrica 
 
